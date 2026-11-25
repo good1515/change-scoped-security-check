@@ -1,0 +1,3 @@
+interface:
+  display_name: "上線資安檢查"
+  short_description: "依變更檢查機密、部署清單與後台登入"
